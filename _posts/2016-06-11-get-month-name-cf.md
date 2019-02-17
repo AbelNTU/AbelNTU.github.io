@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "get Month Name [CF]"
-date:   2016-06-11 03:43:45 +0700
-categories: [python, codefights]
+title:  "AbstractUser in Django"
+date:   2019-02-17 03:43:45 +0700
+categories: [python, Django, user]
 ---
 
-Map the given integer to a month.
+Extend default authentication.
 
 **Example:**
 
